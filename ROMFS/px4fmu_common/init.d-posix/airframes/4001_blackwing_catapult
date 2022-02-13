@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+# @name Blackwing SITL with catapult
+#
+
+. ${R}etc/init.d-posix/airframes/4000_blackwing
+
+param set-default RWTO_TKOFF 0
