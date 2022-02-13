@@ -145,6 +145,8 @@ set(models
 	none
 	believer
 	boat
+    blackwing
+    blackwing_catapult
 	cloudship
 	glider
 	if750a
