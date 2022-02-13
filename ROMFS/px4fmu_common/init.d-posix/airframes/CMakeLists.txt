@@ -75,6 +75,8 @@ px4_add_romfs_files(
 	3011_hexarotor_x
 	17001_tf-g1
 	2507_cloudship
+    4000_blackwing
+    4001_blackwing_catapult
 	6011_typhoon_h480
 	6011_typhoon_h480.post
 	6012_typhoon_h480_ctrlalloc
